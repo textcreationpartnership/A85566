@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great and bloudy fight at sea, between the Parliaments fleet, and the Princes navy, on Thursday last, neer the coast of Plymouth; the great James, the royall Fame, and five other ships taken, together with one hundred and fifty pieces of ordnance, five hundred captains and mariners, and great store of powder, match, and bullet; as also, the full particulars of the said fight, the manner of their boarding each other, and the number killed and wounded on both sides. Likewise, prince Maurice his letter to the prince of Wales, concerning the Navy, and prince Charles his resolution. With a letter to be sent from the parliament of England to the embassadours of forraign princes, touching His Highnesse.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85566</idno>
+            <idno type="STC">Wing G1640</idno>
+            <idno type="STC">Thomason E554_20</idno>
+            <idno type="STC">ESTC R205774</idno>
+            <idno type="EEBO-CITATION">99865055</idno>
+            <idno type="PROQUEST">99865055</idno>
+            <idno type="VID">165092</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85566)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165092)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E554[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great and bloudy fight at sea, between the Parliaments fleet, and the Princes navy, on Thursday last, neer the coast of Plymouth; the great James, the royall Fame, and five other ships taken, together with one hundred and fifty pieces of ordnance, five hundred captains and mariners, and great store of powder, match, and bullet; as also, the full particulars of the said fight, the manner of their boarding each other, and the number killed and wounded on both sides. Likewise, prince Maurice his letter to the prince of Wales, concerning the Navy, and prince Charles his resolution. With a letter to be sent from the parliament of England to the embassadours of forraign princes, touching His Highnesse.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for G. Wharton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165092:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 85 -->
+            <p>A GREAT AND Bloudy Fight at Sea, BETWEEN The Parliaments Fleet, and the Princes Navy, on <hi>Thurſday</hi> laſt, neer the Coaſt of <hi>Plymouth;</hi> the great <hi>James,</hi> the Royall <hi>Fame,</hi> and five other ſhips taken, together with one hundred and fifty pieces of Ordnance, five hundred Captains and Ma<g ref="char:EOLhyphen"/>riners, and great ſtore of powder match, and bullet; As alſo, the full particulars of the ſaid Fight, the manner of their boarding each other, and the number killed and wounded on both ſides. Likewiſe, prince <hi>Maurice</hi> his Letter to the prince of <hi>Wales,</hi> concerning the Navy, and prince <hi>Charles</hi> his Reſo<g ref="char:EOLhyphen"/>lution. With a Letter to be ſent from the parliament of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to the Embaſſadours of forraign princes, touching His Hi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>neſſe.</p>
+            <figure>
+               <p>
+                  <date>
+                     <add>May 9<hi rend="sup">th</hi>
+                     </add>
+                  </date>
+               </p>
+               <figDesc>depictiion of battle between the Parliament's fleet and the Prince's navy</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> printed for <hi>G. Wharton, Anno Dom.</hi> 1649</p>
+            <pb facs="tcp:165092:2"/>
+            <!-- PDF PAGE 86 -->
+            <pb facs="tcp:165092:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 86 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165092:3"/>
+            <!-- PDF PAGE 87 -->
+            <pb n="1" facs="tcp:165092:3"/>
+            <!-- PDF PAGE 87 -->
+            <head>Another great FIGHT AT SEA Between the Parliaments Navy, and the Princes Fleet, The great ſhip called the <hi>James</hi> taken, and many others, with above one hundred and fifty pieces of Ordnance.</head>
+            <opener>
+               <salute>Right Honoured,</salute>
+            </opener>
+            <p>THe Princes Fleet being divided into three Squadrons, Captain <hi>Moulton</hi> took <hi>Time</hi> by the fore-top, and embraced an opportunity to diſpute the Weſtern point with a Squadron of the ſaid ſhips, commanded by Prince <hi>Maurice,</hi> the manner thus, <hi>viz.</hi>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:165092:4"/>
+               <!-- PDF PAGE 88 -->
+The ſaid Capt. <hi>Moulten</hi> Vice-Admiral of the Irith Seas for the Parliament of England, having received certain intelligence of the preſent motion of the afore ſaid Squadron, immediatly hoyſted ſayl, and with the Leopard, and five more ſhips haſtned towards them, who coming within two leagues one of the other, both parties hung forth their colours opened the Port holes, and when they came within musket ſhot, ſeverall great vollies were exchanged, and a hot conflict bogan, which continued for the ſpace of an hour, the fight being diſ<g ref="char:EOLhyphen"/>puted with great gallantry on both ſides; but the Priu<g ref="char:EOLhyphen"/>ces having not long before their engagement, poſſeſ<g ref="char:EOLhyphen"/>ſed themſelves of rich Prizes, invited our Mariners to a bold attempt; inſomuch, that the Leopard boarded the <hi>James,</hi> but were the firſt and ſecond time repulſed and beaten off, by reaſon of the enemies ſmall ſhot which flew ſo violently from the Morter pieces above Decks; but the third time, they aſſayled ſo far, that after a ſhort diſpute with their half pikes, and other weapons, they forced the enemy under Decks, where the Captain of the ſaid ſhip deſired a parley, other<g ref="char:EOLhyphen"/>wiſe they were reſolved to ſink the ſhip, and ſacrifice their lives in the mercileſſe Seas; which being gran<g ref="char:EOLhyphen"/>ted, they deſired quarter, and freely reſigned themſelvs up to the mercy of Parliament. During which conflict between the <hi>Leopard</hi> and the <hi>James,</hi> the reſt of the ſhips were not idle, each party ſtriving for victory, but ſo ſoon as they perceived that the <hi>James</hi> was taken, im<g ref="char:EOLhyphen"/>mediatly hung forth a white flag, and ſounded a par<g ref="char:EOLhyphen"/>ley, which being likewiſe granted, they alſo bequeathed themſelves to the mercy of Parliament: ſo that with the loſſe of about 50 men, they poſſeſſed themſelves
+<pb n="3" facs="tcp:165092:4"/>
+               <!-- PDF PAGE 88 -->of the whole Squadron, being ſeven in number, wher<g ref="char:EOLhyphen"/>in was above 150 pieces of Ordnance, and about 500. Mariners, with great ſtore of proviſion, ammunition, march and bullet, with other rich prizes which they had taken at Sea. Theſe ſhips are now all brought into this Harbour, and the Captains, and others, committed to ſafe cuſtody. Many of the Princes men are ſore woun<g ref="char:EOLhyphen"/>ded, ſo are divers of ours; but in the engagement they loſt above 100 men. Prince <hi>Maurice</hi> eſcaped narrow<g ref="char:EOLhyphen"/>ly, but by the ſwift ſayling of the <hi>Charls</hi> got ſafe to the Iſle of Scilley; from whence he wrote a Letter to the prince of <hi>Wales,</hi> intimating, <hi>That if ſpeedy ſupplies of men, money, and ſhipping be not ſent vnto him, the Royall Game will be ſoon lost at Sea.</hi>
+            </p>
+            <div type="part">
+               <opener>
+                  <dateline>Plymouth <date>5 May, 1649.</date>
+                  </dateline>
+               </opener>
+               <p>By an Expreſſe from the <hi>Hague</hi> in <hi>Holland, May</hi> 2. it is advertized, That Prince <hi>Charles</hi> hath abſolutely declared againſt the high Demands of the Kingdome or <hi>Scotland,</hi> reſolving to expedito a Meſſage and De<g ref="char:EOLhyphen"/>claration to his Subjects of that Nation, for the clee<g ref="char:EOLhyphen"/>ring of all miſunderſtandings and falſe ſuggeſtions, and to intimate upon what tearms and conditions he is willing to unite and comply with them; but the Re<g ref="char:EOLhyphen"/>ſults of his Councell are very dangerous to the well<g ref="char:EOLhyphen"/>being peace and tranquility of a free people, and their daily buzzings into his attentive ears, will ſuddenly (its feared) <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rrupt and putrifie his Princely head, which if effuall, great are the troubles that He is to undergoe. And the chief motive which inciteth vs unto this con<g ref="char:EOLhyphen"/>jecturation is, by reaſon that His Highneſſe hath given his finall non-complying anſwer to the Scommiſſio<g ref="char:EOLhyphen"/>ners, and that he intends ſuddenly for <hi>Ireland,</hi> and to be convoyed by the Dutch Admirall.</p>
+               <p>
+                  <pb n="4" facs="tcp:165092:5"/>
+                  <!-- PDF PAGE 89 -->
+                  <hi>Honoured Sir,</hi>
+                  <lb/>
+PRince <hi>Charles,</hi> the declared King of <hi>Scotland,</hi> hath given audience to the Scots Commiſſio<g ref="char:EOLhyphen"/>ners, and upon the repreſenting of their Meſ<g ref="char:EOLhyphen"/>ſage (in the name of the whole Kirk and Kingdome of <hi>Scotland</hi>) after mature deliberation thereon, his High<g ref="char:EOLhyphen"/>neſſe roſe out of the Chair of State, and made this en<g ref="char:EOLhyphen"/>ſuing Speech, at the Councel Table, in the preſence of many Engliſh Peers.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="speech">
+                           <opener>
+                              <salute>My Lords,</salute>
+                           </opener>
+                           <p>SEeing that the Kirk and Kingdom of <hi>Scotland,</hi> have acknowledged<hi>Us</hi> to be their true and lawfull King, according to Bi<gap reason="illegible: missing" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>thright and Succeſſion, <hi>We</hi> ſhall there<g ref="char:EOLhyphen"/>fore endeavour to diſcharge the trust repoſed in <hi>Us,</hi> with all faithfulneſse and integrity, and in order thereunto, ſhall leave no meanes un<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>t<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>mpted for the ſatisfying of all Intereſts but ſpeedily declare Our gracious will and plea<g ref="char:EOLhyphen"/>ſure, in giving ſuch Directions and Orders for the peace and Government of that Kingdome, which ſhall prove ſa<g ref="char:EOLhyphen"/>tisfactory, to all Our loyal Subjects, within the Territories thereof.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>But notwithſtanding all theſe affable and declarato<g ref="char:EOLhyphen"/>ry expreſſions, his Highneſſe ſeems to be very averſe in his condeſcenſions to treat with them privately; but by the advice of his Councell, hath expreſly declared, That he will not treat upon matters concerning that Kingdom, but in the preſence of ſome of his Councel<g ref="char:EOLhyphen"/>lours.</p>
+               <p>And his Highneſſe doth more and more adhere to the Earl of <hi>Montroſse,</hi> but yet with ſo much policy and art, that upon diſcourſe with the Earl of <hi>Lanerick</hi> (who is now called by the name of D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke <hi>
+                     <gap reason="illegible: missing" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>mbleton</hi>)
+<pb n="5" facs="tcp:165092:5"/>
+                  <!-- PDF PAGE 89 -->he ſo far complemented with him, that he proteſted to adhere to his Majeſty in all Commands, I will try that ſayes Prince <hi>Charles,</hi> the Scots King, within three or four dayes; and ſome three dayes after the Prince got them both private, taxed the Duke with his pro<g ref="char:EOLhyphen"/>miſe, and thereupon commanded him to ſhake hands, and be friends with <hi>Montroſſe.</hi> The Duke replyed, that the difference was great between them, and ſo vaſt, that it required many dayes debate: but upon the Prin<g ref="char:EOLhyphen"/>ces further preſſing of it, they ſhaked hands, proteſting to unite really in affection.</p>
+               <p>The Scots Commiſſioners are not ſatisfied with the Demurs at Court, but have ſome addreſſes to the States, to move the King in their behalf to hearken to them, and condiſcend to what is propounded for the peace and ſettlement of his Kingdom. For the facilia<g ref="char:EOLhyphen"/>ting whereof, the States have tendered a Repreſentati<g ref="char:EOLhyphen"/>on to his Highneſſe, inciting him to a reconciliation, a perfect union, and ſeriouſly to weigh and conſider of what they offer to him.</p>
+               <p>Whereupon the Prince reſolved, that the ſubſtance of their Deſires ſhould be drawn up into form, and in reference to a paper which he had formerly received from the Commiſſioners, communicated the ſame to the Eſtates, to the end, they might cleerly diſcerne and be ſenſible of what high things they demanded of him, which being urged by them to the Scots commiſſio<g ref="char:EOLhyphen"/>ner, they denied the tender of any ſuch paper: How<g ref="char:EOLhyphen"/>ever, the Prince hath declared a great willingneſſe to a concurrence with his Subjects of <hi>Scotland,</hi> and ſaith, that he is reſolved to give his condeſcenſion to ſuch things, that may tend to his honour and ſafety, and the liberty and freedom of his people; but the Royall
+<pb n="6" facs="tcp:165092:6"/>
+                  <!-- PDF PAGE 90 -->Courtiers diſſwade him, from ſigning to any thing, but that which may advance their own deſign and in<g ref="char:EOLhyphen"/>tereſt.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Hague <date>4 May, 1649.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>May</hi> 8. By an Expreſſe from the North it is adver<g ref="char:EOLhyphen"/>tized, that the <hi>Gourdens, Oglebies,</hi> and <hi>Middletons</hi> are gathered to a great head, and have great Bodies toge<g ref="char:EOLhyphen"/>gether; and whereas formerly they did intend a parley now they reject and caſt all aſide they begun or in<g ref="char:EOLhyphen"/>tended with <hi>Leſley,</hi> they are grown to ſuch a height, that <hi>Leſley</hi> is enforced to withdraw his number of for<g ref="char:EOLhyphen"/>ces in any meaſure not able to engage with theirs.</p>
+               <p>The parliament of <hi>England</hi> have ordered that a let<g ref="char:EOLhyphen"/>ter be forthwith drawn up, to be ſent to the ſeverall and reſpective Embaſſadors and Agents from forraine States, ſignifying, That they are reſolved to ſeize on all ſhips whatſoever, belonging to any King or State that have prince <hi>Charles</hi> his Commiſſion, or ſhall be deſig<g ref="char:EOLhyphen"/>ned againſt the Common-wealth or <hi>England,</hi> and in or<g ref="char:EOLhyphen"/>der thereunto, are drawing up an Act for the ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me purpoſe, which may prove inſtrumentall for <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pre<g ref="char:EOLhyphen"/>venting of forraign Engagements againſt this Nation.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
